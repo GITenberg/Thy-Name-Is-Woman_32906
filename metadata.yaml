@@ -1,0 +1,38 @@
+_repo: Thy-Name-Is-Woman_32906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32906-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
+description: In the distant future, it is discovered that due to a quirk in human
+  biology, women are able to withstand the rigors of long-term space flight in a way
+  that men can''t. The women of Earth promptly exploit this advantage and abscond
+  to outer space, where an female-led utopian society is established. But when Eddie
+  Bowren shows up, everything changes.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Space flight -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Sex role -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mars (Planet) -- Fiction'
+title: Thy Name Is Woman
+url: http://www.gutenberg.org/ebooks/32906
